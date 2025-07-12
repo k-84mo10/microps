@@ -1,4 +1,4 @@
-microps
+microps (k-84mo10)
 =======
 
 microps is an implementation of a small TCP/IP protocol stack for learning.
